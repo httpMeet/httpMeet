@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gandhimeet11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet gandhi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gandhimeet1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet gandhi" height="30" width="40" /></a>
 <a href="mailto:gandhimeet1104@gmail.com" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/87/35/12/360_F_387351274_Whzf0dMkq02YYQY2SARWiJP0VfJBF7tc.jpg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
