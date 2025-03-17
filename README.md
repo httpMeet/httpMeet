@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **At Gujarat technological University B.E(CSE)**
 
-- 👨‍💻 All of my projects are available at [https://httpmeet.github.io/PortfolioWebsite/](https://httpmeet.github.io/PortfolioWebsite/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-meet-gandhis-projects-176fb241.vercel.app/](https://portfolio-website-meet-gandhis-projects-176fb241.vercel.app/)
 
 - 💬 Ask me about **Anything abount Html,css,Js or React**
 
