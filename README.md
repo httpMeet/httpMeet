@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-meet-gandhis-projects-176fb241.vercel.app/](https://portfolio-website-meet-gandhis-projects-176fb241.vercel.app/)
 
-- 💬 Ask me about **Anything abount Html,css,Js or React**
+- 💬 Ask me about **Anything about Html,css,Js or React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
