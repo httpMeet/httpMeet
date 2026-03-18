@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **At Gujarat technological University B.E(CSE)**
 
-- 👨‍💻 All of my projects are available at [https://gandhimeet.me/]
+- 👨‍💻 All of my projects are available at https://gandhimeet.me/
 
 - 💬 Ask me about **Anything about Html,css,Js or React**
 
