@@ -42,17 +42,17 @@
 
 ## 📊 GitHub Statistics
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=httpmeet&show_icons=true&theme=tokyonight" alt="Meet Gandhi GitHub Stats" />
-</p> -->
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=httpmeet&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpmeet&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
+</p>
 
 ---
 
